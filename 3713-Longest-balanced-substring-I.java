@@ -44,7 +44,6 @@ Constraints:
 1 <= s.length <= 1000
 s consists of lowercase English letters.
 */
-import java.util.*;
 
 class Solution {
     public boolean checkBalanced(int []freq)
