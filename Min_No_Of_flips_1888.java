@@ -35,6 +35,8 @@ s[i] is either '0' or '1'.
 
 */
 
+import java.util.*;
+
 class Solution {
     public int minFlips(String s) {
         int n = s.length();
