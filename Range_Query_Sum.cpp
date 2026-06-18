@@ -41,7 +41,7 @@ Constraints:
 builds the segment tree */
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std;    
 void build(int i,int l,int r,int arr[],int *st)
 {
     if(l == r){
